@@ -1,0 +1,48 @@
+/**
+ * 41 Target Disease Classes present in the dataset.
+ */
+export const DISEASES = [
+  { id: 'Fungal infection', name: 'Fungal Infection' },
+  { id: 'Allergy', name: 'Allergy' },
+  { id: 'GERD', name: 'GERD (Gastroesophageal Reflux)' },
+  { id: 'Chronic cholestasis', name: 'Chronic Cholestasis' },
+  { id: 'Drug Reaction', name: 'Drug Reaction' },
+  { id: 'Peptic ulcer diseae', name: 'Peptic Ulcer Disease' },
+  { id: 'AIDS', name: 'AIDS' },
+  { id: 'Diabetes ', name: 'Diabetes' },
+  { id: 'Gastroenteritis', name: 'Gastroenteritis' },
+  { id: 'Bronchial Asthma', name: 'Bronchial Asthma' },
+  { id: 'Hypertension ', name: 'Hypertension' },
+  { id: 'Migraine', name: 'Migraine' },
+  { id: 'Cervical spondylosis', name: 'Cervical Spondylosis' },
+  { id: 'Paralysis (brain hemorrhage)', name: 'Paralysis (Brain Hemorrhage)' },
+  { id: 'Jaundice', name: 'Jaundice' },
+  { id: 'Malaria', name: 'Malaria' },
+  { id: 'Chicken pox', name: 'Chickenpox' },
+  { id: 'Dengue', name: 'Dengue' },
+  { id: 'Typhoid', name: 'Typhoid' },
+  { id: 'hepatitis A', name: 'Hepatitis A' },
+  { id: 'Hepatitis B', name: 'Hepatitis B' },
+  { id: 'Hepatitis C', name: 'Hepatitis C' },
+  { id: 'Hepatitis D', name: 'Hepatitis D' },
+  { id: 'Hepatitis E', name: 'Hepatitis E' },
+  { id: 'Alcoholic hepatitis', name: 'Alcoholic Hepatitis' },
+  { id: 'Tuberculosis', name: 'Tuberculosis' },
+  { id: 'Common Cold', name: 'Common Cold' },
+  { id: 'Pneumonia', name: 'Pneumonia' },
+  { id: 'Dimorphic hemmorhoids(piles)', name: 'Dimorphic Hemorrhoids' },
+  { id: 'Heart attack', name: 'Heart Attack' },
+  { id: 'Varicose veins', name: 'Varicose Veins' },
+  { id: 'Hypothyroidism', name: 'Hypothyroidism' },
+  { id: 'Hyperthyroidism', name: 'Hyperthyroidism' },
+  { id: 'Hypoglycemia', name: 'Hypoglycemia' },
+  { id: 'Osteoarthristis', name: 'Osteoarthritis' },
+  { id: 'Arthritis', name: 'Arthritis' },
+  { id: '(vertigo) Paroymsal  Positional Vertigo', name: 'Benign Positional Vertigo' },
+  { id: 'Acne', name: 'Acne' },
+  { id: 'Urinary tract infection', name: 'Urinary Tract Infection (UTI)' },
+  { id: 'Psoriasis', name: 'Psoriasis' },
+  { id: 'Impetigo', name: 'Impetigo' }
+];
+
+export default DISEASES;
